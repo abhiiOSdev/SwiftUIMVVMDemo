@@ -14,7 +14,7 @@ This project is a demo app that showcases the use of SwiftUI and the MVVM archit
 
 ## Installation
 1. Clone the repository: git clone https://github.com/abhiiOSdev/SwiftUIMVVMDemo.git
-2. Open the Xcode project: open project-name.xcodeproj
+2. Open the Xcode project
 3. Build and run the app
 
 ## Usage
